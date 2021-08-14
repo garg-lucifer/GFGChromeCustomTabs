@@ -1,6 +1,5 @@
 package com.namangarg.gfgcustomtabs
 
-import android.app.PendingIntent
 import android.content.Context
 import android.content.pm.PackageManager
 import android.net.Uri
